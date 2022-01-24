@@ -8,7 +8,8 @@ H/W 진입을 위한 Arduino 기초를 연습한다.
 
 ```현재 COM5번``` 에 연결되 있는것을 확인 할 수 있다
 
-![캡처](https://user-images.githubusercontent.com/84003327/150755884-1b021f0a-8859-4e6b-ad59-4c0ef46d830c.PNG)
+![캡처](https://user-images.githubusercontent.com/84003327/150759717-b6e7e8e8-21bc-4aac-8f5f-217f2e665d8d.PNG)
+
 
 ## Arduino IED 실행 및 포트 set_up
 
