@@ -1,4 +1,4 @@
-## Arduino
+## Arduino set_up
 
 H/W 진입을 위한 Arduino 기초를 만든다 
 
