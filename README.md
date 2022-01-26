@@ -29,15 +29,3 @@ H/W 진입을 위한 Arduino 기초를 연습한다.
 실제로 만들어 봤다면 만들어진 핀맵을 바탕으로 프리징을 사용해서 디지털 전장도를 도식해보는 것도 추천한다.
 
 ![rlt](https://user-images.githubusercontent.com/84003327/150739607-206e26ed-7c94-484e-9e4f-09e8a9854ec3.PNG)
-
-## 영상참조
-
-https://www.youtube.com/watch?v=qcMGmgQgtA4
-
-https://www.youtube.com/watch?v=Dscf9u1ght4
-
-https://www.youtube.com/watch?v=TKdAETENQXk
-
-https://www.youtube.com/watch?v=KR95yV1f_KI
-
-https://www.youtube.com/watch?v=44gElt1CYKI
