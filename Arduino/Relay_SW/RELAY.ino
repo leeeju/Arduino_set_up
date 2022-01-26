@@ -14,7 +14,7 @@ void setup()
 void loop() 
 {
   digitalWrite(RELAY,HIGH); // led on
-  delay(100);
+  delay(100);  // on & off 속도 
   digitalWrite(RELAY,LOW);  // led off
   delay(100);
   
