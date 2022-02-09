@@ -3,6 +3,8 @@
 
 구성환경 : Windows 10, Arduino IDE, Arduino nano, C++, RS485, D-sub 커넥터
 
+## 제품 공식 홈피 참조
+https://github.com/ntrexlab/AHRS_Text 
 
 ## 전체 사진
 ![KakaoTalk_20220209_091150412](https://user-images.githubusercontent.com/84003327/153108655-6ac38ac7-48cc-41f3-8e4c-19be231a8dfb.jpg)
